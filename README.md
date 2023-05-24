@@ -1,2 +1,2 @@
 # misc
-Experimenting with using Racket to solve projecteuler.net/problem=189
+Random one-offs that don't fit anywhere else.
