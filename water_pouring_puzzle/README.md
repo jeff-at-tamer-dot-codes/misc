@@ -1,3 +1,4 @@
+```
 From: Greg Davidson <greg.davidson@gmail.com>
 Date: Sun, 16 Apr 2023 17:54:29 -0700
 Message-ID: <CA+2rpgk4XWfs8u54kQR5V5SVFVdOBikRvu8f=v_75_jiAAaJAQ@mail.gmail.com>
@@ -38,3 +39,4 @@ Love, _Touch
 -- - Brute-force Breadth-First would suffice,
 -- - or other methods not more than a small
 -- - constant worse in time and space resources.
+```
